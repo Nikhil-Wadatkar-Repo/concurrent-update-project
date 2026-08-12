@@ -8,6 +8,7 @@ public class ConcurrentUpdateServiceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ConcurrentUpdateServiceApplication.class, args);
+        System.out.println("Hii Ankur");
     }
 
 }
